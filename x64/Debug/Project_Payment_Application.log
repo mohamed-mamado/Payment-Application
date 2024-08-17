@@ -1,0 +1,6 @@
+﻿  card.c
+C:\Users\LAPTOP\OneDrive\Desktop\My project\Project_Payment_Application\Project_Payment_Application\Card\card.c(15,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LAPTOP\OneDrive\Desktop\My project\Project_Payment_Application\Project_Payment_Application\Card\card.c(40,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LAPTOP\OneDrive\Desktop\My project\Project_Payment_Application\Project_Payment_Application\Card\card.c(77,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LAPTOP\OneDrive\Desktop\My project\Project_Payment_Application\Project_Payment_Application\Card\card.c(81,6): warning C4101: 'd': unreferenced local variable
+  Project_Payment_Application.vcxproj -> C:\Users\LAPTOP\OneDrive\Desktop\My project\Project_Payment_Application\x64\Debug\Project_Payment_Application.exe
